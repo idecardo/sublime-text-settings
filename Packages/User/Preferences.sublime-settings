@@ -1,0 +1,52 @@
+{
+    // Set to true to ensure the last line of the file ends in a newline
+    // character when saving
+    "ensure_newline_at_eof_on_save": true,
+
+    // folder_exclude_patterns and file_exclude_patterns control which files
+    // are listed in folders on the side bar. These can also be set on a per-
+    // project basis.
+    "folder_exclude_patterns":
+    [
+        ".git",
+        ".hg",
+        ".idea",
+        ".svn",
+        "CVS"
+    ],
+
+    // Note that the font_face and font_size are overridden in the platform
+    // specific settings file, for example, "Preferences (Linux).sublime-settings".
+    // Because of this, setting them here will have no effect: you must set them
+    // in your User File Preferences.
+    "font_face": "Operator Mono Ligature",
+    "font_size": 12,
+
+    // List any packages to ignore here. When removing entries from this list,
+    // a restart may be required if the package contains plugins.
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+
+    // Additional spacing at the bottom of each line, in pixels
+    "line_padding_bottom": 5,
+
+    // Additional spacing at the top of each line, in pixels
+    "line_padding_top": 5,
+
+    // Set to true to automatically save files when switching to a different file
+    // or application
+    "save_on_focus_lost": true,
+
+    // Set to false to disable scrolling past the end of the buffer.
+    // On Mac, this value is overridden in the platform specific settings, so
+    // you'll need to place this line in your user settings to override it.
+    "scroll_past_end": true,
+
+    // Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": true,
+
+    // Set to true to removing trailing white space on save
+    "trim_trailing_white_space_on_save": true
+}
