@@ -16,13 +16,19 @@ git clone git@github.com:idecardo/sublime-text-settings.git .
 
 Packages are not installed but will automatically be installed when you install the Package Control.
 
+- A File Icon
 - AdvancedNewFile
+- Babel
 - Emmet
+- ESLint-Formatter
 - LESS
 - MarkdownPreview
 - PHP Companion
 - Sass
 - SideBarEnhancements
+- SublimeLinter
+- SublimeLinter-eslint
+- SublimeLinter-jshin
 
 ## License
 

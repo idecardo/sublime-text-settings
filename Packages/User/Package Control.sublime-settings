@@ -5,12 +5,18 @@
 	],
 	"installed_packages":
 	[
+		"A File Icon",
 		"AdvancedNewFile",
+		"Babel",
 		"Emmet",
+		"ESLint-Formatter",
 		"LESS",
 		"MarkdownPreview",
 		"PHP Companion",
 		"Sass",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-eslint",
+		"SublimeLinter-jshint"
 	]
 }
