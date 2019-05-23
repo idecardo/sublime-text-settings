@@ -9,7 +9,7 @@ Clone the repository within your sublime text directory.
 ```
 rm -rf ~/Library/Application\ Support/Sublime\ Text\ 3/*
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/
-git clone git@github.com:idecardo/sublime-text-settings.git .
+git clone https://github.com/idecardo/sublime-text-settings.git .
 ```
 
 ## Packages
@@ -28,7 +28,7 @@ Packages are not installed but will automatically be installed when you install 
 - SideBarEnhancements
 - SublimeLinter
 - SublimeLinter-eslint
-- SublimeLinter-jshin
+- SublimeLinter-jshint
 
 ## License
 
