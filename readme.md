@@ -25,6 +25,7 @@ Packages are not installed but will automatically be installed when you install 
 - PHP Companion
 - Sass
 - SideBarEnhancements
+- Vue Syntax Highlight
 
 ## License
 
