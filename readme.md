@@ -20,15 +20,11 @@ Packages are not installed but will automatically be installed when you install 
 - AdvancedNewFile
 - Babel
 - Emmet
-- ESLint-Formatter
 - LESS
 - MarkdownPreview
 - PHP Companion
 - Sass
 - SideBarEnhancements
-- SublimeLinter
-- SublimeLinter-eslint
-- SublimeLinter-jshint
 
 ## License
 

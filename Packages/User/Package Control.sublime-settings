@@ -9,14 +9,10 @@
 		"AdvancedNewFile",
 		"Babel",
 		"Emmet",
-		"ESLint-Formatter",
 		"LESS",
 		"MarkdownPreview",
 		"PHP Companion",
 		"Sass",
-		"SideBarEnhancements",
-		"SublimeLinter",
-		"SublimeLinter-eslint",
-		"SublimeLinter-jshint"
+		"SideBarEnhancements"
 	]
 }
