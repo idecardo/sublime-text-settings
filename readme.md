@@ -7,7 +7,7 @@ Personal Sublime Text Settings Backup.
 Clone the repository within your sublime text directory.
 
 ```
-rm -rf ~/Library/Application\ Support/Sublime\ Text\ 3/*
+rm -rf ~/Library/Application\ Support/Sublime\ Text\ 3/{*,.*}
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/
 git clone https://github.com/idecardo/sublime-text-settings.git .
 ```
@@ -20,6 +20,7 @@ Packages are not installed but will automatically be installed when you install 
 - AdvancedNewFile
 - Babel
 - Emmet
+- Laravel Blade Highlighter
 - LESS
 - MarkdownPreview
 - PHP Companion
