@@ -19,8 +19,8 @@
     // specific settings file, for example, "Preferences (Linux).sublime-settings".
     // Because of this, setting them here will have no effect: you must set them
     // in your User File Preferences.
-    "font_face": "Operator Mono Ligature",
-    "font_size": 12,
+    "font_face": "JetBrains Mono",
+    "font_size": 14,
 
     // List any packages to ignore here. When removing entries from this list,
     // a restart may be required if the package contains plugins.
@@ -30,10 +30,10 @@
     ],
 
     // Additional spacing at the bottom of each line, in pixels
-    "line_padding_bottom": 5,
+    "line_padding_bottom": 6,
 
     // Additional spacing at the top of each line, in pixels
-    "line_padding_top": 5,
+    "line_padding_top": 6,
 
     // Set to true to automatically save files when switching to a different file
     // or application
