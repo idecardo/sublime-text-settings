@@ -7,7 +7,7 @@ Personal Sublime Text Settings Backup.
 Clone the repository within your sublime text directory.
 
 ```
-rm -rf ~/Library/Application\ Support/Sublime\ Text\ 3/{*,.*}
+find ~/Library/Application\ Support/Sublime\ Text\ 3 -maxdepth 1 -mindepth 1 -exec rm -rf {} \;
 cd ~/Library/Application\ Support/Sublime\ Text\ 3/
 git clone https://github.com/idecardo/sublime-text-settings.git .
 ```
